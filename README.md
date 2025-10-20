@@ -1,11 +1,9 @@
 # -Axon-Healthcare-Analysis-Dashboard-Excel-Project-
-🏥 AXON Healthcare Analysis Dashboard
-📊 Project Overview
-
+**📊 Project Overview**
 The AXON Healthcare Analysis Dashboard is an interactive and data-driven Power BI (or Excel-based) visualization designed to analyze key healthcare metrics and provide actionable insights for hospital management and healthcare professionals.
 This dashboard provides a comprehensive overview of patient statistics, doctor performance, diagnosis trends, treatment costs, and lab results to support data-informed decision-making.
-
-🎯 Objectives
+**
+🎯 Objectives**
 
 To monitor key healthcare KPIs such as total patients, total doctors, visits, follow-up rates, and treatment costs.
 
@@ -16,8 +14,8 @@ To visualize patient demographics, including age, gender, and blood group distri
 To track doctor-wise and date-wise healthcare activity for performance evaluation.
 
 To identify abnormal lab result percentages for quality control and diagnostics optimization.
-
-📈 Key Insights Displayed
+**
+📈 Key Insights Displayed**
 
 Top-Level KPIs
 
@@ -58,7 +56,7 @@ Treatment & Gender Filters
 
 Ability to filter insights by treatment type (Medication, Surgery, Physical Therapy, etc.) and gender (Male, Female, Other).
 
-🧮 Tools & Technologies Used
+**🧮 Tools & Technologies Used**
 
 Power BI / Microsoft Excel (Dashboard Design)
 
